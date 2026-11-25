@@ -45,3 +45,5 @@ Testes e correções.
 
 9. Apresentação
 Data prevista: 09/12/2026.
+
+10. data da criação do planejamento: 25/11/2026
