@@ -41,8 +41,7 @@ Implementação do sistema de pontuação.
 Desenvolvimento da tela de resultados.
 Testes e correções.
 
-8. Integrantes
-Integrante 1: Matheus Gomes rodrigues (Projeto individual)
+8. Integrantes: Matheus Gomes rodrigues (Projeto individual)
 
 9. Apresentação
 Data prevista: 09/12/2026.
